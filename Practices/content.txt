@@ -1,0 +1,4 @@
+this is text file for checking file handling in python.
+python is the most popular programming language
+I am trying to avoid other languages
+
